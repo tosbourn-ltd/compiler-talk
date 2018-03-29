@@ -1,4 +1,4 @@
-<!-- footer: Compilers Talk – CS Noobs 2018: @tosbourn -->
+<!-- footer: Compilers Talk â€“ CS Noobs 2018: @tosbourn -->
 
 # Let's make a compiler
 
@@ -25,9 +25,9 @@
 
 ---
 # Breaking a compiler down
-* Front End – Takes source file and turns it into an intermediate representation
-* Middle End – Makes performance optimisations
-* Back End – Turns intermediate representation into the target code
+* Front End - Takes source file and turns it into an intermediate representation
+* Middle End - Makes performance optimisations
+* Back End - Turns intermediate representation into the target code
 ---
 
 # Parts of the compiler we will look at
@@ -131,6 +131,6 @@ add(1,1)
 # Questions / Thanks! / Simple CS
 
 * thanks to Destroy All Software
-* slides and code are on GitHub
+* slides and code https://github.com/tosbourn-ltd/compiler-talk
 * @tosbourn on twitter if you want to tweet questions later
 * https://tosbourn.com/simple-cs/
