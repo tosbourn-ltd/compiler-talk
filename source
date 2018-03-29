@@ -1,0 +1,3 @@
+def hello(x,y)
+  greet(x, name(y))
+end
